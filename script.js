@@ -7,5 +7,3 @@ z = x + y;
 function nombreDeFuncion() {
     const nombreVariable = 'Variable dentro de la función'
 }
-
-console.log(nombreVariable)
