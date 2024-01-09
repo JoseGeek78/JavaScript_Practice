@@ -10,6 +10,3 @@ function nombreDeFuncion() {
 
 // Los comentarios se empiezan a escribir después de presionar Ctrl + }
 // NÚMEROS
-let variableNumero = 10
-let variabledecimal = 10.10
-
