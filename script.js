@@ -13,5 +13,3 @@ function nombreDeFuncion() {
 let variableNumero = 10
 let variabledecimal = 10.10
 
-// TEXTO = String
-let variableTexto = 'Texto'
