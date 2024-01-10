@@ -7,5 +7,9 @@ let nombre_completo;
 
 console.log(nombre);
 
-let apellido;
+let apellido, color;
 apellido = 'Rodríguez';
+color = 'verde';
+
+console.log(apellido);
+console.log(color);
