@@ -1,3 +1,3 @@
 // Personaje de TV
-let nombre = 'Tanjiro';
-let anime = 
+let nombre = 'Chihiro';
+let anime = 'El Viaje de Chihiro';
