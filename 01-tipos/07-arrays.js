@@ -4,4 +4,5 @@ console.log(animales[0]);
 
 animales[3] = 'Ratón';
 console.log(animales);
-console.log(typeof animales)
+console.log(typeof animales);
+console.log(animales.length);
