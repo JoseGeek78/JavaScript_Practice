@@ -1,5 +1,5 @@
-function suma(a) {
-    return a + 2;
+function suma(a, b) {
+    return a + b;
 }
 
 let resultado = suma(5, 6);
