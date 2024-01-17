@@ -20,3 +20,13 @@ var dividendo = 10;
 var divisor = 4;
 var residuo = dividendo % divisor;
 console.log("El residuo de dividir " + dividendo + " entre " + divisor + " es " + residuo);
+
+let c = 61;
+// incrementar
+console.log(++c)
+console.log(c++)
+console.log(c)
+// decrementar 
+console.log(--c)
+console.log(c--)
+console.log(c)
