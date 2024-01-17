@@ -12,5 +12,6 @@ console.log(c <= 7);
 
 console.log(c == 7);
 console.log(c != 7);
+// Es mejor usar estos símbolos
 console.log(c === '7');
 console.log(c !== 7);
