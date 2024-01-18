@@ -15,4 +15,5 @@ console.log('operador and', mayor || suscrito);
 // NOT !
 console.log('operador and', !mayor);
 
+
 let catalogoInfantil = !mayor;
