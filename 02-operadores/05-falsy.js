@@ -5,3 +5,5 @@
 // 0
 // ''
 // null
+// undefined
+// NaN
